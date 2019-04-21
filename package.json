@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/pareshkrc/common-js#readme",
   "dependencies": {
+    "cypress": "^3.2.0",
     "mongoose": "^5.5.2"
   }
 }
