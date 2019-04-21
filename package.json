@@ -1,0 +1,25 @@
+{
+  "name": "qe-common-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pareshkrc/npm-package.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "npm",
+    "package"
+  ],
+  "author": "paresh.chaudhari@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pareshkrc/npm-package/issues"
+  },
+  "homepage": "https://github.com/pareshkrc/npm-package#readme"
+}
