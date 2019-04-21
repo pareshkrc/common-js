@@ -1,5 +1,5 @@
 {
-  "name": "common-js",
+  "name": "@pareshkrc/common",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pareshkrc/common-js/issues"
   },
-  "homepage": "https://github.com/pareshkrc/common-js#readme"
+  "homepage": "https://github.com/pareshkrc/common-js#readme",
+  "dependencies": {
+    "mongoose": "^5.5.2"
+  }
 }
