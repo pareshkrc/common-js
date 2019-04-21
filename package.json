@@ -1,7 +1,7 @@
 {
   "name": "@pareshkrc/common",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "testing",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -24,6 +24,11 @@
   "homepage": "https://github.com/pareshkrc/common-js#readme",
   "dependencies": {
     "cypress": "^3.2.0",
-    "mongoose": "^5.5.2"
+    "mongoose": "^5.5.2",
+    "mocha": "^5.2.0",
+    "mocha-junit-reporter": "^1.13.0",
+    "mocha-multi-reporters": "^1.1.4",
+    "mochawesome": "^3.1.1",
+    "mochawesome-merge": "^1.0.4"
   }
 }
