@@ -1,5 +1,5 @@
 {
-  "name": "qe-common-js",
+  "name": "common-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/pareshkrc/npm-package.git"
+    "url": "git+ssh://git@github.com/pareshkrc/common-js.git"
   },
   "keywords": [
     "js",
@@ -19,7 +19,7 @@
   "author": "paresh.chaudhari@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pareshkrc/npm-package/issues"
+    "url": "https://github.com/pareshkrc/common-js/issues"
   },
-  "homepage": "https://github.com/pareshkrc/npm-package#readme"
+  "homepage": "https://github.com/pareshkrc/common-js#readme"
 }
